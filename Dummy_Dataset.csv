@@ -1,0 +1,245 @@
+Name,Stage Name,Amount,Close Date,Type,Lead Source,Created Date,Loss Reason,Project Name,Project Location
+Client 1,Lost order,5616,2019-04-22 0:00:00,New Business,Phone,2019-04-30 8:49:52,Price,Project 1,Abu Dhabi Region
+Client 2,Lost order,1840,2019-01-29 0:00:00,,,2019-04-27 7:43:51,,Project 2,Abu Dhabi
+Client 3,Lost order,0,2019-01-21 0:00:00,,,2019-04-27 7:16:53,,Project 3,Abu Dhabi
+Client 4,Lost order,37370,2019-04-13 0:00:00,New Business,Phone,2019-04-29 13:46:46,No Decision / Non-Responsive,Project 4,Abu Dhabi
+Client 5,Lost order,4720,2019-04-13 0:00:00,New Business,Phone,2019-04-29 12:33:56,Other,Project 5,Abu Dhabi
+Client 5,Lost order,1680,2019-04-17 0:00:00,New Business,Phone,2019-04-29 12:35:24,Other,Project 5,Abu Dhabi
+Client 6,Lost order,600,2019-01-23 0:00:00,,,2019-04-27 7:31:07,,Project 6,Abu Dhabi
+Client 6,Lost order,0,2019-01-31 0:00:00,,,2019-04-27 7:56:19,No Decision / Non-Responsive,Project 6,Abu Dhabi
+Client 7,Lost order,620,2019-04-13 0:00:00,New Business,Website,2019-04-29 13:42:35,No Decision / Non-Responsive,Project 7,Abu Dhabi
+Client 8,Lost order,9600,2019-05-07 0:00:00,Existing Business,Email,2019-05-04 8:02:55,Rate fishing,Project 8,Abu Dhabi
+Client 9,Lost order,84000,2019-05-09 0:00:00,New Business,Email,2019-05-04 8:05:57,No Decision / Non-Responsive,Project 9,Abu Dhabi
+Client 10,Lost order,1020,2019-04-20 0:00:00,New Business,Website,2019-04-30 8:33:55,No Decision / Non-Responsive,Project 10,Al Ain
+Client 11,Won order,24,2018-06-11 0:00:00,,,2019-03-02 8:31:24,,Project 11,
+Client 11,Won order,17,2018-06-17 0:00:00,,,2019-03-02 8:40:21,,Project 11,
+Client 12,Lost order,0,2019-05-11 0:00:00,Existing Business,Email,2019-05-09 7:19:55,,Project 12,"Al Barsha, Al Khail Road, Dubai"
+Client 13,Won order,6392,2019-04-24 0:00:00,New Business,Phone,2019-05-02 13:05:25,,Project 13,"Al Faqa, Abu Dhabi"
+Client 14,Lost order,520,2019-01-15 0:00:00,,,2019-04-25 9:51:22,,Project 14,Dubai
+Client 15,Lost order,1966,2019-02-20 0:00:00,,,2019-04-29 8:31:41,,Project 15,Al Jaddaf
+Client 16,Lost order,68,2019-06-09 0:00:00,New Business,Website,2019-06-09 5:21:25,Price,Project 16,Dubai
+Client 17,Lost order,9810,2019-03-26 0:00:00,New Business,Email,2019-03-26 11:10:28,Other,Project 17,Al Khatam
+Client 18,Won order,1060,2019-03-31 0:00:00,New Business,Phone,2019-03-31 5:27:21,,Project 18,"Al Madam, Sharjah"
+Client 19,Lost order,1740,2019-04-07 0:00:00,Existing Business,Email,2019-04-10 7:17:30,Price,Project 19,"Al Mariya Island, Abu Dhabi"
+Client 20,Lost order,214,2019-05-16 0:00:00,Existing Business,Email,2019-05-15 10:48:48,Rate fishing,Project 20,"Al Mariyah Island, Abu Dhabi"
+Client 21,Won order,50,2018-05-31 0:00:00,,,2019-03-02 8:27:14,,Project 21,
+Client 21,Won order,34,2018-07-01 0:00:00,,,2019-03-02 9:03:43,,Project 21,
+Client 21,Won order,60,2018-07-12 0:00:00,,,2019-03-02 9:14:51,,Project 21,
+Client 21,Won order,186,2018-07-29 0:00:00,,,2019-03-02 9:18:32,,Project 21,
+Client 22,Won order,560,2019-03-16 0:00:00,New Business,Website,2019-03-16 10:08:29,,Project 22,"Al Nakheel Island, Dubai"
+Client 22,Lost order,926,2019-03-17 0:00:00,Existing Business,Email,2019-03-17 11:56:14,,Project 22,TBA
+Client 23,Lost order,1050,2019-02-25 0:00:00,Existing Business,Email,2019-04-30 11:55:01,,Project 23,Al Qudra
+Client 24,Lost order,9920,2019-06-17 0:00:00,New Business,Email,2019-06-15 7:06:10,Price,Project 24,Al Qudra
+Client 25,Lost order,510,2019-03-30 0:00:00,New Business,Phone,2019-03-30 7:54:16,Rate fishing,Project 25,Al Qusais
+Client 26,Lost order,190,2019-01-31 0:00:00,,,2019-04-27 7:57:21,,Project 26,Al Warqa
+Client 27,Lost order,500,2019-01-05 0:00:00,,,2019-04-23 7:52:57,,Project 27,Al Warqa
+Client 27,Won order,210,2019-04-16 0:00:00,Existing Business,Email,2019-04-30 6:48:27,,Project 27,Al Warqa
+Client 28,Won order,324,2019-05-30 0:00:00,Existing Business,Phone,2019-05-28 13:15:03,,Project 28,Al Warqa
+Client 29,Won order,700,2019-02-27 0:00:00,,,2019-03-05 13:59:33,,Project 29,
+Client 29,Won order,420,2019-02-17 0:00:00,,,2019-03-06 5:49:40,,Project 29,
+Client 30,Lost order,6005,2019-02-12 0:00:00,,In person meeting,2019-03-18 6:04:04,,Project 30,Dubai
+Client 31,Lost order,142,2019-03-25 0:00:00,New Business,Email,2019-03-25 13:48:44,No Decision / Non-Responsive,Project 31,AOAMS Happiness Center
+Client 32,Lost order,3180,2019-05-14 0:00:00,New Business,Website,2019-05-13 9:13:25,,Project 32,Dubai
+Client 33,Lost order,290,2019-04-23 0:00:00,New Business,Email,2019-04-30 10:32:10,,Project 33,United Arab Emirates
+Client 34,Lost order,7700,2019-03-10 0:00:00,,,2019-03-10 5:50:03,Price,Project 34,
+Client 35,Lost order,1050,2019-04-29 0:00:00,New Business,Phone,2019-04-30 11:34:40,,Project 35,United Arab Emirates
+Client 36,Lost order,30,2019-06-13 0:00:00,New Business,Email,2019-06-12 5:52:12,Price,Project 36,"Big Box, Dubai"
+Client 37,Lost order,30,2019-04-11 0:00:00,New Business,Phone,2019-04-29 11:13:59,No Decision / Non-Responsive,Project 37,Business Bay
+Client 38,Lost order,1000,2019-05-21 0:00:00,Existing Business,Phone,2019-05-20 5:57:49,Price,Project 38,Dubai Hills & Jabel Ali
+Client 39,Won order,182,2019-04-28 0:00:00,New Business,Email,2019-04-29 9:41:35,,Project 39,Global Village
+Client 40,Lost order,0,2019-06-08 0:00:00,Existing Business,Email,2019-06-08 5:59:07,Price,Project 40,Global Village
+Client 41,Lost order,480,2019-05-09 0:00:00,Existing Business,Email,2019-05-08 8:48:12,Other,Project 41,Dubai Design District
+Client 42,Won order,3300,2018-10-01 0:00:00,,,2019-03-06 13:46:50,,Project 42,
+Client 43,Lost order,300,2019-03-25 0:00:00,New Business,Website,2019-03-25 12:38:05,Price,Project 43,Damac Tower - Paramount
+Client 44,Won order,90,2019-03-30 0:00:00,New Business,Website,2019-03-30 7:27:54,,Project 44,Debate Al Habab
+Client 45,Won order,60,2018-05-15 0:00:00,,,2019-03-02 8:14:51,,Project 45,
+Client 45,Won order,242,2018-06-28 0:00:00,,,2019-03-02 8:59:30,,Project 45,
+Client 46,Won order,2100,2019-01-20 0:00:00,,,2019-03-05 14:07:57,,Project 46,
+Client 47,Won order,2460,2019-01-22 0:00:00,,,2019-03-05 14:10:44,,Project 46,
+Client 48,Lost order,500,2019-01-14 0:00:00,,,2019-04-25 9:46:17,,Project 47,Deira Waterfront
+Client 49,Won order,390,2018-12-30 0:00:00,,,2019-03-05 14:16:43,,Project 48,
+Client 49,Lost order,1640,2019-01-22 0:00:00,,,2019-04-27 6:12:12,Other,Project 48,Deira Waterfront
+Client 49,Lost order,1700,2019-01-22 0:00:00,,,2019-04-27 7:14:04,Other,Project 48,Deira Waterfront
+Client 50,Lost order,0,2019-06-09 0:00:00,New Business,Website,2019-06-01 7:48:21,Equipment unavailable,#N/A,"Samnan, Sharjah"
+Client 51,Lost order,90,2019-03-10 0:00:00,,,2019-03-10 12:39:07,No Decision / Non-Responsive,Project 50,DHCC Dubai
+Client 52,Lost order,104,2019-04-22 0:00:00,Existing Business,Phone,2019-04-30 8:56:48,Price,Project 51,"dibba, Fujairah"
+Client 52,Lost order,430,2019-04-22 0:00:00,Existing Business,Phone,2019-04-30 9:01:02,Order revised,Project 51,"Dibba, Fujairah"
+Client 53,Won order,3500,2019-03-20 0:00:00,Existing Business,Email,2019-03-17 13:26:21,,Project 52,Fujairah
+Client 54,Lost order,1480,2019-04-01 0:00:00,New Business,Phone,2019-04-10 7:05:41,No Decision / Non-Responsive,Project 53,Dubai Internet City
+Client 55,Lost order,40,2019-05-21 0:00:00,Existing Business,Email,2019-05-20 10:37:17,,Project 54,"DIC, Jebel Ali"
+Client 56,Lost order,1000,2019-01-23 0:00:00,,,2019-04-27 7:33:41,,Project 55,DIP 2
+Client 57,Lost order,0,2019-05-07 0:00:00,New Business,Email,2019-05-05 7:20:14,,Project 56,"Downtown, Dubai"
+Client 58,Lost order,550,2019-02-25 0:00:00,Existing Business,Email,2019-04-30 11:59:22,,Project 57,Dubai Silicon Oasis
+Client 59,Lost order,420,2019-02-27 0:00:00,Existing Business,,2019-04-30 12:18:51,,Project 58,Dubai Silicon Oasis
+Client 60,Lost order,31500,2019-01-10 0:00:00,,,2019-04-23 8:27:49,,Project 59,Dubai
+Client 61,Lost order,7160,2019-04-14 0:00:00,New Business,Phone,2019-04-29 14:07:52,No Decision / Non-Responsive,Project 60,Dubai
+Client 62,Lost order,532,2019-04-25 0:00:00,New Business,Phone,2019-04-29 9:49:17,Price,Project 61,Dubai
+Client 63,Lost order,1120,2019-01-16 0:00:00,,,2019-04-25 9:53:48,,Project 62,Dubai
+Client 64,Lost order,330,2019-03-16 0:00:00,Existing Business,Email,2019-03-16 6:15:48,Price,Project 63,Dubai Hills
+Client 65,Lost order,460,2019-01-03 0:00:00,New Business,In person meeting,2019-04-23 6:28:42,,Project 64,Dubai Hills
+Client 66,Lost order,1310,2019-01-03 0:00:00,,,2019-04-23 6:44:25,Price,Project 65,Dubai Hills
+Client 67,Lost order,960,2019-01-02 0:00:00,,,2019-04-23 6:36:09,,Project 66,Dubai Hills
+Client 68,Lost order,460,2019-01-05 0:00:00,,,2019-04-23 6:48:48,,Project 67,Dubai Hills
+Client 69,Lost order,12830,2019-01-05 0:00:00,,,2019-04-23 7:56:59,Price,Project 68,Dubai Hills
+Client 70,Lost order,12760,2019-01-13 0:00:00,,,2019-04-23 8:05:37,Price,Project 69,Dubai Hills
+Client 71,Lost order,12360,2019-01-16 0:00:00,,,2019-04-23 8:12:34,,Project 70,Dubai Hills
+Client 72,Won order,1100,2019-03-19 0:00:00,Existing Business,Email,2019-06-27 6:14:44,,Project 71,Dubai Hills
+Client 73,Lost order,1430,2019-03-18 0:00:00,Existing Business,Phone,2019-03-18 6:30:20,No Decision / Non-Responsive,Project 72,"Dubai Land, Dubai"
+Client 74,Lost order,1680,2019-03-26 0:00:00,New Business,Email,2019-03-26 13:51:19,Price,Project 73,TBA
+Client 75,Lost order,590,2019-01-14 0:00:00,,,2019-04-25 9:42:16,,Project 74,Dubai South
+Client 76,Lost order,1024,2019-04-13 0:00:00,,Website,2019-04-29 12:31:52,No Decision / Non-Responsive,Project 75,Dubai South
+Client 77,Lost order,480,2019-05-09 0:00:00,Existing Business,Email,2019-05-08 8:03:08,Other,Project 76,Dubai
+Client 78,Lost order,76,2019-05-06 0:00:00,New Business,Website,2019-05-07 5:59:18,,Project 77,Dubai
+Client 79,Lost order,91,2019-05-09 0:00:00,New Business,Email,2019-05-07 6:05:07,,Project 78,Dubai
+Client 80,Lost order,602,2019-05-08 0:00:00,Existing Business,Email,2019-05-07 6:17:38,Price,Project 79,Dubai
+Client 81,Lost order,994,2019-02-24 0:00:00,,,2019-04-29 8:37:11,,Project 80,Oman
+Client 82,Lost order,500,2019-02-25 0:00:00,New Business,,2019-04-30 12:04:55,,Project 81,United Arab Emirates
+Client 83,Won order,5544,2019-02-28 0:00:00,,,2019-03-05 14:24:33,,Project 82,"Solar Park, Dubai"
+Client 84,Won order,440,2019-04-27 0:00:00,Existing Business,In person meeting,2019-04-03 7:24:08,,Project 83,EXPO 20-20 Project Dubai Jabel Ali
+Client 85,Lost order,340,2019-04-24 0:00:00,New Business,Phone,2019-04-29 9:35:00,No Decision / Non-Responsive,Project 84,"Expo 2020 , Dubai"
+Client 86,Lost order,9681,2019-01-16 0:00:00,,,2019-04-25 10:01:39,,Project 85,Expo 2020
+Client 86,Lost order,4096,2019-01-16 0:00:00,,,2019-04-25 10:07:59,,Project 85,Expo 2020
+Client 86,Lost order,1880,2019-02-06 0:00:00,,,2019-04-27 8:28:46,,Project 85,Expo 2020
+Client 86,Lost order,440,2019-02-10 0:00:00,,,2019-04-27 8:43:41,,Project 85,Expo 2020
+Client 87,Lost order,1040,2019-05-23 0:00:00,Existing Business,Phone,2019-05-22 6:46:24,Price,Project 86,Expo 2020
+Client 88,Lost order,0,2019-01-23 0:00:00,,,2019-04-27 6:41:36,,Project 87,Expo 2020
+Client 89,Lost order,130,2019-04-11 0:00:00,Existing Business,Phone,2019-04-29 11:02:29,No Decision / Non-Responsive,Project 88,Expo2020
+Client 90,Won order,390,2019-06-15 0:00:00,Existing Business,Email,2019-06-13 5:34:16,,Project 89,Expo2020
+Client 91,Lost order,1128,2019-05-29 0:00:00,Existing Business,Email,2019-05-27 12:17:48,Price,Project 90,Expo 2020
+Client 92,Won order,1204,2019-05-30 0:00:00,Existing Business,Email,2019-05-28 11:07:34,,Project 91,Expo2020
+Client 93,Won order,148,2019-05-09 0:00:00,Existing Business,Phone,2019-05-08 7:22:23,,Project 92,Expo2020
+Client 94,Lost order,560,2019-06-18 0:00:00,New Business,Email,2019-06-16 7:56:04,Price,Project 93,Expo2020
+Client 95,Won order,960,2019-03-17 0:00:00,Existing Business,Email,2019-03-17 13:10:51,,Project 94,Fujairah
+Client 96,Lost order,2820,2019-04-11 0:00:00,Existing Business,,2019-04-29 11:07:49,Price,Project 95,Fujairah
+Client 97,Lost order,2800,2019-03-16 0:00:00,,,2019-03-16 7:31:30,No Decision / Non-Responsive,Project 96,Fujairah
+Client 98,Lost order,1240,2019-01-29 0:00:00,,,2019-04-27 7:46:16,No Decision / Non-Responsive,Project 97,Fujairah
+Client 99,Won order,2790,2019-04-11 0:00:00,Existing Business,Phone,2019-04-29 11:10:23,,Project 98,Fujairah
+Client 100,Lost order,60,2019-05-19 0:00:00,New Business,Website,2019-05-18 6:17:48,,Project 99,Fujairah
+Client 101,Won order,3660,2018-10-01 0:00:00,,,2019-03-06 13:44:24,,Project 100,
+Client 102,Lost order,110,2019-05-25 0:00:00,,Email,2019-05-23 8:10:21,Project,Project 101,Ghantoot
+Client 103,Lost order,5280,2019-03-14 0:00:00,,,2019-03-14 8:37:16,,Project 102,TBA
+Client 104,Lost order,520,2019-06-18 0:00:00,New Business,Email,2019-06-16 7:51:37,Price,Project 103,Gunal Project
+Client 105,Lost order,840,2019-04-20 0:00:00,New Business,Website,2019-04-30 8:52:44,No Decision / Non-Responsive,Project 104,Habshan Area
+Client 106,Lost order,1200,2019-02-16 0:00:00,,,2019-04-28 6:27:13,,Project 105,Jebel Ali
+Client 107,Lost order,240,2019-04-09 0:00:00,Existing Business,Email,2019-04-29 10:27:46,Other,Project 106,
+Client 108,Won order,795,2018-07-16 0:00:00,,,2019-03-02 9:23:49,,Project 133,
+Client 108,Won order,5590,2019-03-28 0:00:00,Existing Business,In person meeting,2019-03-28 7:10:56,,Project 133,
+Client 109,Lost order,4260,2019-02-03 0:00:00,,,2019-04-27 7:51:59,,Project 133,IBN Battuta
+Client 110,Won order,630,2019-02-26 0:00:00,,,2019-03-05 14:41:17,,Project 133,
+Client 111,Lost order,390,2019-06-17 0:00:00,New Business,In person meeting,2019-06-15 11:29:06,Price,Project 133,"ICAD, Abu Dhabi"
+Client 112,Lost order,710,2019-04-11 0:00:00,Existing Business,Email,2019-04-29 12:26:27,Price,Project 133,"ICD, Deira Waterfront"
+Client 113,Lost order,500,2019-06-23 0:00:00,New Business,Email,2019-06-23 12:55:13,Cross hirer,Project 133,Abu Dhabi
+Client 114,Won order,80,2019-03-14 0:00:00,,,2019-03-14 7:54:10,,Project 133,Jabel Ali
+Client 115,Lost order,180,2019-04-30 0:00:00,New Business,Email,2019-04-30 11:37:14,No Decision / Non-Responsive,Project 133,JAFZA
+Client 116,Lost order,820,2019-03-28 0:00:00,Existing Business,Phone,2019-03-28 8:30:55,No Decision / Non-Responsive,Project 133,"JAFZA, Dubai"
+Client 117,Lost order,0,2019-02-05 0:00:00,,,2019-04-27 8:24:32,,Project 133,Jebel Ali
+Client 118,Lost order,2738,2019-02-03 0:00:00,,,2019-04-27 8:03:12,,Project 133,Jebel Ali
+Client 118,Lost order,0,2019-02-19 0:00:00,,,2019-04-28 9:07:43,,Project 133,Jebel Ali
+Client 119,Lost order,760,2019-05-03 0:00:00,Existing Business,Phone,2019-05-01 6:59:51,Price,Project 133,Jebel Ali
+Client 120,Lost order,5144,2019-05-15 0:00:00,Existing Business,Email,2019-05-14 7:10:15,,Project 133,
+Client 121,Lost order,240,2019-03-18 0:00:00,New Business,Website,2019-03-18 13:57:57,No Budget / Lost Funding,Project 133,Sharjah
+Client 122,Lost order,60,2019-03-27 0:00:00,New Business,Website,2019-03-27 10:34:53,No Decision / Non-Responsive,Project 133,Jumeirah Village Triangle
+Client 123,Won order,450,2019-03-23 0:00:00,,Phone,2019-03-23 11:44:02,,Project 133,"Kalba, Fujairah"
+Client 124,Lost order,372000,2019-04-25 0:00:00,Existing Business,In person meeting,2019-04-30 7:32:33,Price,Project 133,
+Client 125,Lost order,540,2019-01-17 0:00:00,,,2019-04-27 6:17:11,Price,Project 133,Kalba
+Client 126,Lost order,560,2019-04-09 0:00:00,New Business,Phone,2019-04-29 10:20:29,No Decision / Non-Responsive,Project 133,
+Client 127,Lost order,1050,2019-03-23 0:00:00,,Email,2019-03-23 10:10:46,No Decision / Non-Responsive,Project 133,Khalifa City
+Client 128,Lost order,13750,2019-01-14 0:00:00,,,2019-04-23 9:03:35,Price,Project 133,Khalifa Port
+Client 129,Lost order,16576,2019-01-14 0:00:00,,,2019-04-23 9:12:21,,Project 133,Khalifa Port
+Client 130,Lost order,4860,2019-01-16 0:00:00,,,2019-04-27 6:04:19,,Project 133,Khalifa Port
+Client 131,Lost order,570,2019-04-10 0:00:00,New Business,Website,2019-04-29 10:35:29,No Budget / Lost Funding,Project 133,Khawaneej
+Client 132,Lost order,4100,2019-02-12 0:00:00,,,2019-04-28 6:21:40,,Project 133,"Khorfakkan, Fujairah"
+Client 133,Won order,72,2018-04-26 0:00:00,,,2019-03-02 8:04:00,,Project 133,
+Client 134,Lost order,3120,2019-03-13 0:00:00,,,2019-03-10 12:56:27,Order revised,Project 83,
+Client 135,Lost order,1470,2019-01-13 0:00:00,,,2019-04-23 8:38:15,,Project 134,La Mer
+Client 136,Lost order,1230,2019-01-27 0:00:00,,,2019-04-27 7:48:25,,Project 135,La Mer
+Client 137,Lost order,350,2019-05-08 0:00:00,Existing Business,Phone,2019-05-07 10:54:50,Price,Project 137,
+Client 138,Won order,890,2019-02-10 0:00:00,,,2019-02-06 5:37:32,,Project 25,Al Warqa
+Client 139,Lost order,1410,2019-03-26 0:00:00,New Business,Email,2019-03-26 11:06:31,Order revised,Project 138,Mafraq
+Client 140,Lost order,400,2019-03-31 0:00:00,New Business,Website,2019-03-31 5:17:48,Order revised,Project 139,Margam Area
+Client 141,Lost order,240,2019-03-03 0:00:00,Existing Business,,2019-04-30 12:23:11,,Project 140,"Masafi, Fujairah"
+Client 142,Lost order,260,2019-03-16 0:00:00,,,2019-03-16 7:07:56,Equipment unavailable,Project 141,MBR - Dubai
+Client 143,Lost order,550,2019-02-19 0:00:00,,,2019-04-28 6:39:07,,Project 142,"Meydan, Dubai"
+Client 144,Lost order,4610,2019-01-21 0:00:00,,,2019-04-27 6:32:06,,Project 143,Mirdiff
+Client 145,Lost order,340,2019-05-15 0:00:00,New Business,In person meeting,2019-05-14 8:03:54,,Project 144,Mirfa
+Client 146,Lost order,1400,2019-03-13 0:00:00,,,2019-03-13 13:43:05,Rate fishing,Project 145,
+Client 147,Lost order,1230,2019-01-27 0:00:00,,,2019-04-27 7:40:57,,Project 146,Motor City
+Client 148,Lost order,14,2019-05-21 0:00:00,New Business,Website,2019-05-19 9:44:40,,Project 147,
+Client 149,Lost order,4310,2019-01-13 0:00:00,,,2019-03-05 13:50:59,Price,Project 149,Fujairah
+Client 150,Won order,1030,2019-02-03 0:00:00,Existing Business,In person meeting,2019-02-03 13:17:25,,Project 149,"Musafi, Fujairah"
+Client 151,Lost order,4070,2019-01-14 0:00:00,,,2019-04-23 8:50:17,,Project 150,Musafi Fujairah
+Client 152,Lost order,1240,2019-01-19 0:00:00,,,2019-04-27 6:19:36,Price,Project 151,Musafi Fujairah
+Client 153,Won order,530,2019-02-03 0:00:00,,,2019-04-27 8:01:41,,Project 152,Musafi Fujairah
+Client 154,Lost order,600,2019-03-04 0:00:00,New Business,Email,2019-04-30 12:28:23,No Decision / Non-Responsive,Project 153,"Mussafah, Abu Dhabi"
+Client 155,Lost order,370,2019-02-03 0:00:00,,,2019-04-27 8:20:20,,Project 154,Nad Al Shiba
+Client 156,Won order,1308,2018-12-30 0:00:00,,,2019-03-05 14:36:40,,Project 155,
+Client 157,Lost order,1070,2019-03-17 0:00:00,Existing Business,Email,2019-03-17 12:09:32,Order revised,Project 156,FUJAIRAH
+Client 158,Lost order,460,2019-01-05 0:00:00,,,2019-04-23 6:51:21,,Project 157,Nishama - Dubai
+Client 159,Lost order,1060,2019-01-05 0:00:00,,,2019-04-23 8:34:35,,Project 158,Nishama
+Client 160,Won order,570,2019-05-12 0:00:00,Existing Business,Email,2019-05-12 7:34:34,,Project 159,Noor 764 Town Houses
+Client 161,Won order,2200,2019-04-06 0:00:00,Existing Business,Email,2019-03-16 12:57:28,,Project 160,Noor 764 Townhouses
+Client 162,Won order,1160,2019-04-29 0:00:00,Existing Business,Email,2019-04-29 9:52:38,,Project 161,Noor 764 Townhouses
+Client 163,Won order,148224,2018-11-01 0:00:00,,,2019-03-05 14:34:35,,Project 162,
+Client 164,Lost order,524,2019-05-03 0:00:00,New Business,Email,2019-05-01 7:01:35,Equipment unavailable,Project 163,United Arab Emirates
+Client 165,Won order,5400,2018-10-01 0:00:00,,,2019-03-06 13:39:08,,Project 164,
+Client 166,Lost order,1680,2019-05-16 0:00:00,Existing Business,Email,2019-05-15 8:13:09,No Decision / Non-Responsive,Project 165,"Port Taweela, Abu Dhabi"
+Client 167,Won order,5000,2018-10-27 0:00:00,,,2019-03-06 5:47:08,,Project 166,
+Client 168,Lost order,2564,2019-01-24 0:00:00,,,2019-04-27 7:35:44,,Project 167,Mirdiff
+Client 169,Lost order,1000,2019-03-26 0:00:00,Existing Business,Email,2019-03-26 13:22:11,Price,Project 168,Awir Road
+Client 170,Lost order,1120,2019-03-10 0:00:00,,,2019-03-10 6:04:20,No Decision / Non-Responsive,Project 169,
+Client 171,Lost order,1410,2019-03-06 0:00:00,,,2019-03-10 6:17:45,Price,Project 170,
+Client 172,Lost order,240,2019-03-26 0:00:00,Existing Business,Email,2019-03-26 13:19:32,Price,Project 171,Dubai Hills
+Client 173,Lost order,1410,2019-03-06 0:00:00,Existing Business,Phone,2019-05-01 6:16:19,Price,Project 172,"R1086, Dubai Hills"
+Client 174,Lost order,798,2019-03-06 0:00:00,,,2019-03-10 6:20:42,Price,Project 173,
+Client 175,Lost order,1320,2019-02-17 0:00:00,,,2019-04-28 6:30:34,,Project 174,"Reem Island, Abu Dhabi"
+Client 175,Lost order,1230,2019-02-18 0:00:00,,,2019-04-28 6:34:55,,Project 174,Reem Island
+Client 176,Lost order,6720,2019-01-07 0:00:00,,,2019-04-23 8:23:09,,Project 175,Remram
+Client 177,Won order,540,2019-03-09 0:00:00,,,2019-03-10 6:12:21,,Project 176,
+Client 178,Lost order,210,2019-03-25 0:00:00,Existing Business,Email,2019-03-25 14:11:09,Price,Project 177,RIT
+Client 179,Won order,290,2019-03-14 0:00:00,Existing Business,Email,2019-04-03 7:03:40,,Project 178,RIT -DSO
+Client 180,Won order,364,2019-04-08 0:00:00,Existing Business,Email,2019-05-05 10:05:42,,Project 179,RTA-1028/1
+Client 181,Lost order,2320,2019-04-09 0:00:00,New Business,Website,2019-04-10 7:32:38,No Decision / Non-Responsive,Project 180,"Rumaitha/Shanayel, Abu Dhabi"
+Client 182,Won order,68,2018-08-12 0:00:00,,,2019-03-02 10:40:59,,Project 181,
+Client 182,Won order,306,2018-08-12 0:00:00,,,2019-03-02 10:52:02,,Project 181,
+Client 183,Won order,130,2018-06-27 0:00:00,,,2019-03-02 8:47:05,,Project 182,
+Client 183,Won order,110,2018-06-27 0:00:00,,,2019-03-02 8:53:01,,Project 182,
+Client 184,Lost order,800,2019-05-20 0:00:00,Existing Business,Phone,2019-05-20 10:27:16,Price,Project 183,Jebel Ali
+Client 185,Lost order,1260,2019-05-21 0:00:00,Existing Business,Phone,2019-05-20 10:28:51,No Decision / Non-Responsive,Project 184,Jebel Ali
+Client 186,Lost order,2300,2019-03-17 0:00:00,New Business,Email,2019-03-17 13:55:01,Order revised,Project 185,TBA
+Client 186,Won order,218,2019-03-19 0:00:00,New Business,Email,2019-03-23 9:29:37,,Project 185,TBA
+Client 186,Won order,280,2019-03-25 0:00:00,Existing Business,Phone,2019-03-25 13:37:01,,Project 185,TBA
+Client 187,Won order,470,2019-02-05 0:00:00,,,2019-02-07 10:25:28,,Project 186,Solar park Dubai
+Client 188,Lost order,8190,2019-04-01 0:00:00,,Email,2019-04-10 7:13:01,Price,Project 187,TBA
+Client 189,Lost order,31240,2019-05-16 0:00:00,New Business,Email,2019-05-15 10:42:59,Other,Project 188,
+Client 190,Lost order,40,2019-04-10 0:00:00,New Business,Website,2019-04-29 10:53:31,No Decision / Non-Responsive,Project 189,Sharjah
+Client 191,Won order,780,2019-05-09 0:00:00,Existing Business,Email,2019-05-08 9:37:52,,Project 190,
+Client 192,Lost order,310,2019-05-02 0:00:00,New Business,Phone,2019-05-01 9:02:56,Rate fishing,Project 191,Sharjah
+Client 193,Won order,180,2019-04-28 0:00:00,Existing Business,Phone,2019-05-01 10:53:44,,Project 192,Sharjah near Tilal City
+Client 194,Lost order,2130,2019-03-16 0:00:00,New Business,Phone,2019-03-16 11:52:15,Rate fishing,Project 193,Sheikh Khalifa Road Completion
+Client 195,Lost order,5656,2019-05-16 0:00:00,Existing Business,Email,2019-05-16 5:43:03,Price,Project 194,
+Client 196,Lost order,5300,2019-02-14 0:00:00,,,2019-04-27 8:33:25,,Project 195,Solar Park
+Client 196,Lost order,14200,2019-02-19 0:00:00,,,2019-04-27 8:35:59,,Project 195,Solar Park
+Client 197,Lost order,480,2019-02-03 0:00:00,,,2019-04-27 7:59:06,,Project 196,Solar Park
+Client 198,Lost order,680,2019-05-08 0:00:00,Existing Business,Email,2019-05-07 8:01:14,No Decision / Non-Responsive,Project 197,Solar Park
+Client 199,Lost order,25920,2019-03-18 0:00:00,New Business,Phone,2019-03-18 12:19:29,No Decision / Non-Responsive,Project 198,TBA
+Client 200,Won order,5470,2019-05-27 0:00:00,Existing Business,Phone,2019-05-28 7:31:11,,Project 199,"Taweelah Al Kizad, Abu Dhabi"
+Client 201,Won order,620,2018-07-04 0:00:00,,,2019-03-02 9:07:43,,Project 200,
+Client 202,Lost order,0,2019-05-31 0:00:00,New Business,Website,2019-05-31 8:50:08,Project,#N/A,Dubai-National Industries Park
+Client 203,Won order,540,2019-03-10 0:00:00,,,2019-03-10 6:32:59,,Project 201,
+Client 204,Lost order,205,2019-05-30 0:00:00,New Business,Email,2019-05-29 8:42:20,No Decision / Non-Responsive,Project 202,UAE
+Client 205,Lost order,4100,2019-03-16 0:00:00,,,2019-03-16 6:34:03,Order revised,Project 203,TBA
+Client 206,Lost order,86,2019-05-20 0:00:00,New Business,Phone,2019-05-19 9:47:26,,Project 204,
+Client 207,Lost order,90,2019-05-14 0:00:00,New Business,Phone,2019-05-13 9:37:52,Price,Project 205,Umm Suqeim
+Client 208,Lost order,2780,2019-05-21 0:00:00,Existing Business,Website,2019-05-20 8:52:40,Rate fishing,Project 206,"Al Furjan, Dubai"
+Client 209,Lost order,330,2019-03-11 0:00:00,,,2019-03-11 5:11:27,No Decision / Non-Responsive,Project 207,
+Client 210,Lost order,1560,2019-03-19 0:00:00,New Business,Website,2019-03-19 12:41:22,No Decision / Non-Responsive,Project 208,
+Client 211,Won order,180,2019-02-05 0:00:00,New Business,Website,2019-02-04 10:25:36,,Project 209,zahia city center Project Sharjah
+Client 212,Won order,480,2019-02-27 0:00:00,,,2019-03-06 5:37:01,,Project 210,
+Client 213,Won order,270,2019-03-27 0:00:00,Existing Business,Phone,2019-03-25 12:46:17,,Project 211,"Zahia City Center, Sharjah"
+Client 213,Won order,940,2019-02-19 0:00:00,,,2019-04-28 7:02:44,,Project 211,Sharjah
+Client 213,Lost order,520,2019-04-25 0:00:00,Existing Business,Email,2019-04-29 9:45:58,Price,Project 211,Sharjah
+Client 213,Lost order,390,2019-04-29 0:00:00,Existing Business,Email,2019-04-29 9:47:53,Order revised,Project 211,Sharjah
+Client 213,Won order,210,2019-04-11 0:00:00,Existing Business,Email,2019-04-29 12:29:02,,Project 211,Sharjah
+Client 213,Lost order,540,2019-02-24 0:00:00,Existing Business,Email,2019-04-30 11:50:38,,Project 211,Sharjah
+Client 214,Won order,204,2019-06-02 0:00:00,Existing Business,Phone,2019-06-01 7:40:29,,Project 212,ZIW Project Sharjah
+Client 215,Won order,324,2019-06-13 0:00:00,Existing Business,Phone,2019-06-11 10:09:11,,Project 213,"Zahia City Center, Sharjah"
